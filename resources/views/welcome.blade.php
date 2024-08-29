@@ -164,6 +164,7 @@
 
                     <footer class="py-16 text-center text-sm text-black dark:text-white/70">
                         Laravel Lima v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
+                    <br> AKYRA
                     </footer>
                 </div>
             </div>
